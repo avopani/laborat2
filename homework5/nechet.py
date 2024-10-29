@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 29 23:48:33 2024
-
-@author: stacy
-"""
 
 def get_number():
     for number in range(30):
